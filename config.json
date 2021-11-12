@@ -1,0 +1,4 @@
+﻿{
+    "secret": "80wIBfglX55cWJGPBBvxbX6VF1GPhZmi",
+    "algorithms": ["HS256"]
+}
